@@ -18,4 +18,4 @@
 Folder structure:
 - src/rightly_stage0/: source code
 - tests/: tests
-- .env.example: environment variables example
+- .env.example: environment variables example (copy to .env and fill in values)
